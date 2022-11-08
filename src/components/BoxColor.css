@@ -1,0 +1,12 @@
+
+
+.color {
+    display: flex;
+     width: auto;
+     height: 100px;
+     justify-content: center;
+     margin: 20px;
+     align-items: center;
+     color: white;
+     border: 2px solid black;
+ }
